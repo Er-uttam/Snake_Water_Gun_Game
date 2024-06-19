@@ -33,3 +33,4 @@ class SnakeGame:
 
   
 obj = SnakeGame()
+obj1 = SnakeGame()
